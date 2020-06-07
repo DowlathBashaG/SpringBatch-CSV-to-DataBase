@@ -14,7 +14,7 @@ http://localhost:9191/h2-console
 
 ## Set :
 
-## JDBC URL :  jdbc:h2:mem:testdb
+- JDBC URL :  jdbc:h2:mem:testdb
 
 
 ## Execute these below queries :
