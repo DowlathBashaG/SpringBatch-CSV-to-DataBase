@@ -12,12 +12,12 @@ http://localhost:9191/load
 
 http://localhost:9191/h2-console
 
-- Set :
+## Set :
 
-JDBC URL :  jdbc:h2:mem:testdb
+## JDBC URL :  jdbc:h2:mem:testdb
 
 
-- Execute these below queries :
+## Execute these below queries :
 
 - select * from USER;
 
