@@ -16,6 +16,7 @@ http://localhost:9191/h2-console
 
 - JDBC URL :  jdbc:h2:mem:testdb
 
+![jdbc_url](https://user-images.githubusercontent.com/9671419/83973144-12e13800-a902-11ea-8186-b8cc19bd0034.PNG)
 
 ## Execute these below queries :
 
@@ -30,3 +31,5 @@ http://localhost:9191/h2-console
 - select * from BATCH_STEP_EXECUTION_CONTEXT;
 
 - select * from BATCH_STEP_EXECUTION_CONTEXT;
+
+
